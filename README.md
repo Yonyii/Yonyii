@@ -7,76 +7,52 @@
 <br>
 
 <table>
-<tr>
-<td colspan="2" align="center" valign="middle">
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <a href="https://github.com/Yonyii"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/jonathan-nuñez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      &nbsp;
+      <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    </td>
+  </tr>
 
-<a href="https://github.com/Yonyii">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Jonathan 👋</h3>
+    </td>
+  </tr>
 
-&nbsp;
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
 
-<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+      <b>Full-Stack Developer & Computer Engineering Student</b>
 
-&nbsp;
+      <br><br>
 
-<a href="mailto:joninunezroman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+      I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.
 
-</td>
-</tr>
+      <br><br>
 
-<tr>
-<td colspan="2" valign="middle">
+      Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.
 
-<h3>Hi, I'm Jonathan 👋</h3>
+      <br><br>
 
-</td>
-</tr>
+    </td>
 
-<tr>
-
-<td valign="middle" width="70%">
-
-<br>
-
-<b>Full Stack Developer • Computer Engineering Student</b>
-
-<br><br>
-
-I'm a <b>Full Stack Developer</b> from Argentina passionate about building scalable web applications and modern software solutions.
-
-<br><br>
-
-I enjoy working throughout the entire development process, from responsive front-end interfaces to efficient back-end architectures, databases and REST APIs.
-
-<br><br>
-
-Currently improving my skills through personal and professional projects while continuously learning modern technologies and best development practices.
-
-<br><br>
-
-</td>
-
-<td align="center" valign="middle" width="30%">
-
-<img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
-
-</td>
-
-</tr>
-
+    <td align="center" valign="middle" width="30%">
+      <a href="#">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<br>
-
 <div align="center">
-
-<img src="TU_BANNER_AQUI" width="100%" alt="Coding Banner"/>
-
+  <a href="#">
+    <img src="TU_BANNER_AQUI" width="100%" alt="Coding Quotes"/>
+  </a>
 </div>
 
 ---
@@ -126,15 +102,11 @@ Currently improving my skills through personal and professional projects while c
 
 <div align="center">
 
-<a href="mailto:joninunezroman@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/jonathan-nuñez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
