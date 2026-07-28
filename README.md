@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" style="filter: grayscale(100%); background-color: #000;" alt="Coding Quotes"/>
+    <img src="./debajo.png" width="100%" style="filter: grayscale(100%); background-color: #000;" alt="Coding Quotes"/>
   </a>
 </div>
 
