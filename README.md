@@ -1,109 +1,108 @@
 <div align="center">
-  <a href="#">
-    <img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" height="280" style="object-fit: cover;" alt="Lycoris Radiata Banner"/>
-  </a>
+  <a href="#">
+    <img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" height="280" style="object-fit: cover;" alt="Lycoris Radiata Banner"/>
+  </a>
+</div>
 
-  <h1>Hi, I'm Jonathan 👋</h1>
+<br>
 
-  <h3>Full Stack Developer • Computer Engineering Student</h3>
+<table>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <a href="https://github.com/Yonyii"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      &nbsp;
+      <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
+      <h3>Hey there! I’m Jonathan 👋</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="70%">
+      <br>
+      <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
+      I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
+      Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="#">
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="270" alt="About Me Portrait"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <p>
-    I'm a Full Stack Developer from Argentina passionate about building modern web applications,
-    administrative systems and scalable software solutions.
-    <br><br>
-    I enjoy working across the entire development process—from designing responsive user interfaces
-    to developing robust back-end architectures, databases, and REST APIs.
-    <br><br>
-    I'm constantly learning new technologies, improving my skills, and creating projects that help me
-    grow both personally and professionally.
-  </p>
+<div align="center">
+  <a href="#">
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+  </a>
 </div>
 
 ---
 
-## 🌐 Connect with Me
+# ⚡ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/Yonyii">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:joninunezroman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 💻 Tech Stack
+<div align="center">
 
 ### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind&perline=7"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind"/>
 
 ### Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php&perline=5"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php"/>
 
 ### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 
 ### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&perline=6"/>
-</p>
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
 ---
 
 # 🚀 Currently
 
-- 🔭 Building Full Stack applications.
-- 🌱 Learning more about software architecture and modern development practices.
-- 💻 Working with React, ASP.NET Core, Node.js and SQL.
+- 🔭 Developing Full Stack applications.
+- 🌱 Learning software architecture.
+- ⚛️ Working with React, Node.js, ASP.NET Core and SQL.
 - 🎓 Studying Computer Engineering.
 
 ---
 
 # 📫 Contact
 
-<p align="center">
-  <a href="mailto:joninunezroman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
 
 <br>
 
 <div align="center">
-  <a href="#">
-    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes Banner"/>
-  </a>
-  <br><br>
-  <h3>Thanks for visiting my profile! 👋</h3>
-  <p><i>"Keep learning. Keep building."</i></p>
+
+### Thanks for visiting my profile! 👋
+
+*"Keep learning. Keep building."*
+
 </div>
