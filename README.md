@@ -17,16 +17,19 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Jonathan 👋</h3>
+    <td colspan="2" align="center" valign="middle">
+      <h3>Hey there! I’m Jonathan</h3>
     </td>
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
-      I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
-      Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
+      <i>
+        <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
+        I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
+        Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.
+      </i>
+      <br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="#">
@@ -38,33 +41,33 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" style="filter: grayscale(100%); background-color: #000;" alt="Coding Quotes"/>
   </a>
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind&theme=dark"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php&theme=dark"/>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -76,16 +79,16 @@
 
 ---
 
-# 🚀 Currently
+# Currently
 
-- 🔭 Developing Full Stack applications.
-- 🌱 Learning software architecture.
-- ⚛️ Working with React, Node.js, ASP.NET Core and SQL.
-- 🎓 Studying Computer Engineering.
+- Developing Full Stack applications.
+- Learning software architecture.
+- Working with React, Node.js, ASP.NET Core and SQL.
+- Studying Computer Engineering.
 
 ---
 
-# 📫 Contact
+# Contact
 
 <div align="center">
 
@@ -101,7 +104,7 @@
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile!
 
 *"Keep learning. Keep building."*
 
