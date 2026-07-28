@@ -30,7 +30,7 @@
     </td>
     <td align="center" valign="middle" width="80%">
       <a href="#">
-        <img src="./cienpiesss.png" height="880" style="height: 480px; width: auto; max-width: 150px; object-fit: contain;" alt="About Me Portrait"/>
+        <img src="./cienpiesss.png" height="880" style="height: 4080px; width: auto; max-width: 150px; object-fit: contain;" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
