@@ -11,36 +11,23 @@
     <td colspan="2" align="center" valign="middle">
       <a href="https://github.com/Yonyii"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/jonathan-nuñez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
       <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" valign="middle">
       <h3>Hey there! I’m Jonathan 👋</h3>
     </td>
   </tr>
-
   <tr>
     <td valign="middle" width="70%">
       <br>
-
-      <b>Full-Stack Developer & Computer Engineering Student</b>
-
-      <br><br>
-
-      I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.
-
-      <br><br>
-
-      Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.
-
-      <br><br>
-
+      <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
+      I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
+      Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
     </td>
-
     <td align="center" valign="middle" width="30%">
       <a href="#">
         <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
@@ -51,7 +38,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="TU_BANNER_AQUI" width="100%" alt="Coding Quotes"/>
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
   </a>
 </div>
 
@@ -68,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php"/>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
@@ -106,7 +93,7 @@
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/jonathan-nuñez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
