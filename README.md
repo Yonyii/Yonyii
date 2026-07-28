@@ -30,7 +30,7 @@
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="#">
-        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="10" alt="About Me Portrait"/>
+        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="270" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
