@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="5%" valign="middle">
 
 # Hi, I'm Jonathan 👋
 
