@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="65%">
+    <td valign="middle" width="85%">
       <br>
       <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
       I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
@@ -30,7 +30,7 @@
     </td>
     <td align="center" valign="middle" width="15%">
       <a href="#">
-        <img src="./cienpiesss.png" style="width: 100%; max-width: 250px; height: auto; object-fit: cover; border-radius: 8px;" alt="About Me Portrait"/>
+        <img src="./cienpiesss.png" width="110" style="max-width: 110px; height: auto; object-fit: contain;" alt="Centipede Vertical Image"/>
       </a>
     </td>
   </tr>
