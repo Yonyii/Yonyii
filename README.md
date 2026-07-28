@@ -31,7 +31,7 @@ Currently improving my skills through personal and professional projects while c
 
 </td>
 
-<td width="35%" align="center">
+<td width="5%" align="center">
 <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="230"/>
 </td>
 </tr>
