@@ -22,15 +22,15 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="85%">
+    <td valign="middle" width="88%">
       <br>
       <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
       I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
       Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
     </td>
-    <td align="center" valign="middle" width="15%">
+    <td align="center" valign="middle" width="12%">
       <a href="#">
-        <img src="./cienpiesss.png" width="110" style="max-width: 110px; height: auto; object-fit: contain;" alt="Centipede Vertical Image"/>
+        <img src="./cienpiesss.png" style="height: 320px; max-width: 90px; width: auto; object-fit: contain;" alt="Centipede Vertical Image"/>
       </a>
     </td>
   </tr>
