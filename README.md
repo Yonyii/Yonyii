@@ -6,37 +6,97 @@
 
 <br>
 
+<div align="center">
+
+<a href="https://github.com/Yonyii">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:joninunezroman@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<!-- Cuando subas el CV descomentá esto
+
+&nbsp;
+
+<a href="LINK_DE_TU_CV">
+<img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
+
+-->
+
+</div>
+
+<br>
+
 <table>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/ibanezjorge/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
-      &nbsp;
-      <a href="mailto:jorgeibaneezz@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      &nbsp;
-      <a href="https://drive.google.com/file/d/10XxEEHofG6GfxJqtEbsS7A5sWPxXPdAG/view?usp=sharing"><img src="https://img.shields.io/badge/Cv-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Jonathan 👋</h3>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" width="70%">
-      <br>
-      <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
-I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
-Currently, I am focused on building professional web applications, e-commerce platforms, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="https://postimg.cc/NyFKLkth">
-        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
-      </a>
-    </td>
-  </tr>
+
+<tr>
+<td colspan="2">
+<h2>Hi, I'm Jonathan 👋</h2>
+</td>
+</tr>
+
+<tr>
+
+<td width="70%" valign="middle">
+
+## 💻 About Me
+
+I'm a **Full Stack Developer** and **Computer Engineering student** from Argentina.
+
+I enjoy creating modern web applications, scalable systems, and software that solves real-world problems. I like working across the entire development process, from designing intuitive user interfaces to building efficient back-end architectures and databases.
+
+Currently, I'm expanding my experience through professional and personal projects, focusing on clean code, performance, and maintainable software.
+
+### 🚀 Main Technologies
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🔷 ASP.NET Core
+- 🐘 PHP
+- 🗄️ SQL Server & MySQL
+- 🔌 REST APIs
+- 🛠 Git & GitHub
+
+I'm always looking to improve my skills, learn new technologies, and participate in projects that challenge me as a developer.
+
+</td>
+
+<td align="center" width="30%" valign="middle">
+
+<img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="Jonathan"/>
+
+</td>
+
+</tr>
+
 </table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://postimg.cc/XBBCDcJP">
