@@ -9,11 +9,13 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="https://github.com/Yonyii"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
       &nbsp;
       <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
       <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      &nbsp;
+      <a href="#"><img src="https://img.shields.io/badge/Cv-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
     </td>
   </tr>
   <tr>
