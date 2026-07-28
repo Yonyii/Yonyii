@@ -7,70 +7,143 @@
 <br>
 
 <table>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
+<tr>
+<td colspan="2" align="center" valign="middle">
 
-      <a href="https://github.com/Yonyii">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-      </a>
+<a href="https://github.com/Yonyii">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-      &nbsp;
+&nbsp;
 
-      <a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
-        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
+<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-      &nbsp;
+&nbsp;
 
-      <a href="mailto:joninunezroman@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
+<a href="mailto:joninunezroman@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td colspan="2" valign="middle">
-      <h3>Hi, I'm Jonathan 👋</h3>
-    </td>
-  </tr>
+<tr>
+<td colspan="2" valign="middle">
 
-  <tr>
-    <td valign="middle" width="70%">
-      <br>
+<h3>Hi, I'm Jonathan 👋</h3>
 
-      <b>Full Stack Developer • Computer Engineering Student</b>
+</td>
+</tr>
 
-      <br><br>
+<tr>
 
-      I'm a <b>Full Stack Developer</b> from Argentina passionate about building scalable web applications and modern software solutions.
+<td valign="middle" width="70%">
 
-      <br><br>
+<br>
 
-      I enjoy working throughout the entire development process, from responsive front-end interfaces to efficient back-end architectures, databases and REST APIs.
+<b>Full Stack Developer • Computer Engineering Student</b>
 
-      <br><br>
+<br><br>
 
-      Currently improving my skills through personal and professional projects while continuously learning modern technologies and best development practices.
+I'm a <b>Full Stack Developer</b> from Argentina passionate about building scalable web applications and modern software solutions.
 
-      <br><br>
+<br><br>
 
-    </td>
+I enjoy working throughout the entire development process, from responsive front-end interfaces to efficient back-end architectures, databases and REST APIs.
 
-    <td align="center" valign="middle" width="30%">
+<br><br>
 
-      <a href="#">
-        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
-      </a>
+Currently improving my skills through personal and professional projects while continuously learning modern technologies and best development practices.
 
-    </td>
-  </tr>
+<br><br>
+
+</td>
+
+<td align="center" valign="middle" width="30%">
+
+<img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
+
+</td>
+
+</tr>
 
 </table>
 
+<br>
 
 <div align="center">
-  <a href="#">
-    <img src="TU_BANNER_AQUI" width="100%" alt="Coding Banner"/>
-  </a>
+
+<img src="TU_BANNER_AQUI" width="100%" alt="Coding Banner"/>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Currently
+
+- 🔭 Developing Full Stack applications.
+- 🌱 Learning software architecture.
+- ⚛️ Working with React, Node.js, ASP.NET Core and SQL.
+- 🎓 Studying Computer Engineering.
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="mailto:joninunezroman@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+*"Keep learning. Keep building."*
+
 </div>
