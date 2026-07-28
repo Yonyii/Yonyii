@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="./debajo.jpg" style="width: 100%; max-height: 180px; object-fit: contain; filter: grayscale(100%);" alt="Coding Quotes"/>
+    <img src="./debajo.jpg" width="100%" style="height: 45px; object-fit: cover; filter: grayscale(100%);" alt="Coding Quotes"/>
   </a>
 </div>
 
