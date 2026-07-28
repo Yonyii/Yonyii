@@ -28,9 +28,9 @@
       I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
       Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
     </td>
-    <td align="center" valign="middle" width="35%">
+    <td align="center" valign="middle" width="15%">
       <a href="#">
-        <img src="./cienpiesss.png" style="width: 100%; max-width: 150px; height: auto; object-fit: cover; border-radius: 8px;" alt="About Me Portrait"/>
+        <img src="./cienpiesss.png" style="width: 100%; max-width: 250px; height: auto; object-fit: cover; border-radius: 8px;" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
