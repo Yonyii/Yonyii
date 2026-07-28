@@ -1,8 +1,9 @@
 
 
+
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" alt="Lycoris Radiata Banner"/>
+<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="700" alt="Lycoris Radiata Banner"/>
 
 <br>
 
@@ -17,7 +18,7 @@
 
 <table>
 <tr>
-<td width="5%" valign="middle">
+<td width="65%" valign="middle">
 
 # Hi, I'm Jonathan 👋
 
@@ -31,7 +32,7 @@ Currently improving my skills through personal and professional projects while c
 
 </td>
 
-<td width="5%" align="center">
+<td width="35%" align="center">
 <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="230"/>
 </td>
 </tr>
@@ -66,8 +67,11 @@ Currently improving my skills through personal and professional projects while c
 # 📊 GitHub Stats
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
 ---
@@ -84,9 +88,14 @@ Currently improving my skills through personal and professional projects while c
 # 📫 Contact
 
 <div align="center">
+
 <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <a href="https://www.linkedin.com/in/jonathan-nuñez-roman"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </div>
+
+<br>
 
 <div align="center">
 
@@ -95,3 +104,4 @@ Currently improving my skills through personal and professional projects while c
 *"Keep learning. Keep building."*
 
 </div>
+```
