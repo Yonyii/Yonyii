@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="75%">
+    <td valign="middle" width="70%">
       <br>
       <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
       I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
@@ -30,7 +30,7 @@
     </td>
     <td align="center" valign="middle" width="100%">
       <a href="#">
-        <img src="./back.png" height="550" style="height: 480px; width: auto; max-width: 150px; object-fit: contain;" alt="About Me Portrait"/>
+        <img src="./back.png" height="500" style="height: 480px; width: auto; max-width: 150px; object-fit: contain;" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
