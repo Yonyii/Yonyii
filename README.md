@@ -11,7 +11,7 @@
     <td colspan="2" align="center" valign="middle">
       <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
       &nbsp;
       <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
