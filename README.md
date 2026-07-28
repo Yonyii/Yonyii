@@ -76,18 +76,6 @@
 
 ---
 
-# *Contact*
-
-<div align="center">
-
-<a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -95,5 +83,11 @@
 ### *Thanks for visiting my profile!*
 
 *"Keep learning. Keep building."*
+
+<br><br>
+
+<a href="#">
+  <img src="./bye.png" width="150" style="max-width: 100%; height: auto;" alt="Goodbye"/>
+</a>
 
 </div>
