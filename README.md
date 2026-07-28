@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" height="280" style="object-fit: cover;" alt="Lycoris Radiata Banner"/>
+    <img src="./cienpies.png" width="100%" height="160" style="object-fit: cover;" alt="Cienpies Banner"/>
   </a>
 </div>
 
@@ -16,18 +16,23 @@
       <a href="mailto:joninunezroman@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" valign="middle">
       <h3>Hey there! I’m Jonathan 👋</h3>
     </td>
   </tr>
+
   <tr>
     <td valign="middle" width="65%">
       <br>
       <b>Full-Stack Developer & Computer Engineering Student</b> <br><br>
+
       I am based in Argentina and passionate about designing and developing scalable web applications, digital solutions, and efficient software systems that solve real-world problems.<br><br>
+
       Currently, I am focused on building professional web applications, administrative systems, and automation solutions. My technical stack includes React, Vite, Tailwind CSS, Node.js, ASP.NET Core, PHP, SQL databases, REST APIs, and modern development practices to create reliable and high-performance products.<br><br>
     </td>
+
     <td align="center" valign="middle" width="35%">
       <a href="#">
         <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" style="width: 100%; max-width: 250px; height: auto; object-fit: cover; border-radius: 8px;" alt="About Me Portrait"/>
