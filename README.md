@@ -1,9 +1,7 @@
 
-
-
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="700" alt="Lycoris Radiata Banner"/>
+<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" height="180" style="object-fit: cover;" alt="Lycoris Radiata Banner"/>
 
 <br>
 
