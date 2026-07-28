@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="#"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
       &nbsp;
       <a href="https://www.linkedin.com/in/jonathan-nu%C3%B1ez-roman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
