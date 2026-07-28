@@ -1,105 +1,121 @@
 <div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
-    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
-  </a>
+
+<img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" />
+
+# Hi, I'm Jonathan 👋
+
+### Full Stack Developer • Computer Engineering Student
+
+<p>
+I'm a Full Stack Developer from Argentina passionate about building modern web applications,
+administrative systems and scalable software solutions.
+
+I enjoy working across the entire development process—from designing responsive user interfaces
+to developing robust back-end architectures, databases, and REST APIs.
+
+I'm constantly learning new technologies, improving my skills, and creating projects that help me
+grow both personally and professionally.
+</p>
+
 </div>
 
-<br>
+---
 
-<div align="center">
+## 🌐 Connect with Me
+
+<p align="center">
 
 <a href="https://github.com/Yonyii">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:joninunezroman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Cuando subas el CV descomentá esto
+<!--
+Cuando tengas el CV:
 
-&nbsp;
-
-<a href="LINK_DE_TU_CV">
-<img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+<a href="LINK_DEL_CV">
+<img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
-
 -->
 
-</div>
+</p>
 
-<br>
+---
 
-<table>
+# 💻 Tech Stack
 
-<tr>
-<td colspan="2">
-<h2>Hi, I'm Jonathan 👋</h2>
-</td>
-</tr>
+### Frontend
 
-<tr>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind&perline=7"/>
+</p>
 
-<td width="70%" valign="middle">
+### Backend
 
-## 💻 About Me
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php&perline=5"/>
+</p>
 
-I'm a **Full Stack Developer** and **Computer Engineering student** from Argentina.
+### Databases
 
-I enjoy creating modern web applications, scalable systems, and software that solves real-world problems. I like working across the entire development process, from designing intuitive user interfaces to building efficient back-end architectures and databases.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2"/>
+</p>
 
-Currently, I'm expanding my experience through professional and personal projects, focusing on clean code, performance, and maintainable software.
+### Tools
 
-### 🚀 Main Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&perline=6"/>
+</p>
 
-- ⚛️ React
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🟢 Node.js
-- 🔷 ASP.NET Core
-- 🐘 PHP
-- 🗄️ SQL Server & MySQL
-- 🔌 REST APIs
-- 🛠 Git & GitHub
+---
 
-I'm always looking to improve my skills, learn new technologies, and participate in projects that challenge me as a developer.
-
-</td>
-
-<td align="center" width="30%" valign="middle">
-
-<img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="Jonathan"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+# 🚀 Currently
+
+- 🔭 Building Full Stack applications
+- 🌱 Learning more about software architecture and modern development practices
+- 💻 Working with React, ASP.NET Core, Node.js and SQL
+- 📚 Studying Computer Engineering
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:joninunezroman@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <a href="https://postimg.cc/XBBCDcJP">
-    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
-  </a>
+
+<img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" />
+
 </div>
