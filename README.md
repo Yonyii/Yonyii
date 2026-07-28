@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="./gif.gif" width="100%" height="280" style="object-fit: cover;" alt="Banner GIF"/>
+    <img src="./gif.gif" width="100%" height="200" style="object-fit: cover;" alt="Banner GIF"/>
   </a>
 </div>
 
