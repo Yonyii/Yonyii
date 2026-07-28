@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="TU_BANNER_AQUI" width="100%" alt="Jonathan Banner"/>
+<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" alt="Lycoris Radiata Banner"/>
 
 <br><br>
 
@@ -61,6 +61,14 @@ Currently, I'm improving my skills through personal and professional projects wh
 </tr>
 
 </table>
+
+---
+
+<div align="center">
+
+<img src="TU_BANNER_AQUI" width="100%" alt="Coding Banner"/>
+
+</div>
 
 ---
 
@@ -128,14 +136,6 @@ Currently, I'm improving my skills through personal and professional projects wh
 <a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" alt="Lycoris Radiata"/>
 
 </div>
 
