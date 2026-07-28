@@ -1,43 +1,38 @@
 <div align="center">
 
-<img src="TU_BANNER_AQUI.gif" width="100%" alt="Banner"/>
+<img src="TU_BANNER_AQUI" width="100%" alt="Jonathan Banner"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/Yonyii">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/jonathan-nuñez-roman">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="mailto:joninunezroman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<!--
-Cuando tengas el CV
 
 &nbsp;
 
-<a href="LINK_CV">
-<img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+<!-- Descomentar cuando tengas el CV -->
 
+<!--
+<a href="LINK_DEL_CV">
+    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 -->
 
 </div>
 
-<br>
+---
 
 <table>
 
@@ -49,11 +44,11 @@ Cuando tengas el CV
 
 ### Full Stack Developer • Computer Engineering Student
 
-I'm a Full Stack Developer from Argentina passionate about creating modern, scalable and efficient software solutions.
+I'm a **Full Stack Developer** from Argentina passionate about building scalable web applications and modern software solutions.
 
-I enjoy working across the entire development process—from designing intuitive user interfaces to building robust back-end architectures, databases and REST APIs.
+I enjoy working throughout the entire development process, from creating responsive front-end interfaces to designing efficient back-end architectures, databases, and REST APIs.
 
-Currently, I'm expanding my experience through personal and professional projects while continuously improving my skills and learning modern technologies.
+Currently, I'm improving my skills through personal and professional projects while continuously learning new technologies and best development practices.
 
 </td>
 
@@ -71,37 +66,31 @@ Currently, I'm expanding my experience through personal and professional project
 
 # ⚡ Tech Stack
 
-### Frontend
+<div align="center">
 
-<p align="center">
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind"/>
 
-</p>
+<br><br>
 
 ### Backend
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php"/>
 
-</p>
+<br><br>
 
 ### Databases
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
-</p>
+<br><br>
 
 ### Tools
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
 
-</p>
+</div>
 
 ---
 
@@ -109,11 +98,9 @@ Currently, I'm expanding my experience through personal and professional project
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -121,10 +108,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layou
 
 # 🚀 Currently
 
-- 🔭 Developing Full Stack applications
-- 🌱 Learning software architecture and best development practices
-- ⚛️ Working mainly with React, Node.js, ASP.NET Core and SQL
-- 🎓 Studying Computer Engineering
+- 🔭 Developing Full Stack applications.
+- 🌱 Learning software architecture and modern development practices.
+- ⚛️ Working with React, Node.js, ASP.NET Core and SQL.
+- 🎓 Studying Computer Engineering.
 
 ---
 
@@ -133,7 +120,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layou
 <div align="center">
 
 <a href="mailto:joninunezroman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 &nbsp;
@@ -148,7 +135,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layou
 
 <div align="center">
 
-<img src="ACA_VA_EL_GIF_DE_LYCORIS.gif" width="100%" />
+<img src="https://media1.tenor.com/m/Mr96osvvau0AAAAC/%D1%86%D0%B2%D0%B5%D1%82%D1%8B-%D1%82%D0%BE%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C.gif" width="100%" alt="Lycoris Radiata"/>
 
 </div>
 
@@ -157,5 +144,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layou
 <div align="center">
 
 ### Thanks for visiting my profile! 👋
+
+*"Keep learning. Keep building."*
 
 </div>
