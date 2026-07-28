@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <h3>Hey there! I’m Jonathan</h3>
+      <h3><i>Hey there! I’m Jonathan</i></h3>
     </td>
   </tr>
   <tr>
@@ -47,48 +47,36 @@
 
 ---
 
-# Tech Stack
+# *Tech Stack*
 
 <div align="center">
 
-### Frontend
+### *Frontend*
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind&theme=dark"/>
 
-### Backend
+### *Backend*
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php&theme=dark"/>
 
-### Databases
+### *Databases*
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark"/>
 
-### Tools
+### *Tools*
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&theme=dark"/>
 
 </div>
 
 ---
 
-# GitHub Stats
+# *Currently*
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yonyii&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonyii&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+- *Developing Full Stack applications.*
+- *Learning software architecture.*
+- *Working with React, Node.js, ASP.NET Core and SQL.*
+- *Studying Computer Engineering.*
 
 ---
 
-# Currently
-
-- Developing Full Stack applications.
-- Learning software architecture.
-- Working with React, Node.js, ASP.NET Core and SQL.
-- Studying Computer Engineering.
-
----
-
-# Contact
+# *Contact*
 
 <div align="center">
 
@@ -104,7 +92,7 @@
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### *Thanks for visiting my profile!*
 
 *"Keep learning. Keep building."*
 
