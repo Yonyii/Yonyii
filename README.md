@@ -33,11 +33,11 @@
       </i>
       <br><br>
     </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="#">
-        <img src="./back.png" style="max-height: 480px; width: auto; max-width: 100%; object-fit: contain;" alt="About Me Portrait"/>
-      </a>
-    </td>
+    <td align="center" valign="middle" width="30%" style="min-width: 120px; padding: 0;">
+  <a href="#">
+    <img src="./back.png" style="width: 100%; min-width: 120px; height: 100%; max-height: 480px; object-fit: cover; display: block;" alt="About Me Portrait"/>
+  </a>
+</td>
   </tr>
 </table>
 
